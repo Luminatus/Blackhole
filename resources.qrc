@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pixmaps">
+        <file alias="blackhole.png">Resources/pixmaps/blackhole.png</file>
+        <file alias="blueship.png">Resources/pixmaps/blueship.png</file>
+        <file alias="redship.png">Resources/pixmaps/redship.png</file>
+    </qresource>
+    <qresource prefix="/info">
+        <file alias="help1.png">Resources/info/help1.png</file>
+        <file alias="help2.png">Resources/info/help2.png</file>
+        <file alias="help3.png">Resources/info/help3.png</file>
+    </qresource>
+</RCC>
